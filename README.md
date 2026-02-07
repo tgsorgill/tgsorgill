@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="jyyhuang">
+        <img src="https://count.getloli.com/@tgsrgl?name=tgsrgl&theme=booru-lewd&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=0067" alt="jyyhuang">
     </p>
 </div>
 
@@ -8,7 +8,7 @@
 @tgsrgl: ~/readme $ neofetch
 ```
 
-<img src="https://media1.tenor.com/m/xPyuMqQdEzoAAAAC/reze-chainsaw-man.gif" align="left" alt="death note L" width="30%">
+<img src="https://external-preview.redd.it/bocchi-png-v0-pcS4LRiLEdJ8q7u_r6e6vfDULc13ad3dBFwSdY-n2Cs.png?auto=webp&s=862c8f92196b34b9841ef74de211f6941856e71b" align="left" alt="death note L" width="30%">
 
 ```csharp
 ------------------------------------------------------------
