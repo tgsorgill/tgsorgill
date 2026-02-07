@@ -8,7 +8,7 @@
 @tgsrgl: ~/readme $ neofetch
 ```
 
-<img src="https://external-preview.redd.it/bocchi-png-v0-pcS4LRiLEdJ8q7u_r6e6vfDULc13ad3dBFwSdY-n2Cs.png?auto=webp&s=862c8f92196b34b9841ef74de211f6941856e71b" align="left" alt="death note L" width="30%">
+<img src="reze.png" align="left" alt="death note L" width="30%">
 
 ```csharp
 ------------------------------------------------------------
