@@ -31,7 +31,7 @@ favorite.anime: bocchi the rock
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,express,java,c,arch,neovim,git,aws,gcp,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,java,c,git,gcp" />
   </a>
 </p>
 
