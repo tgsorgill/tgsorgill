@@ -39,10 +39,10 @@ favorite.anime: bocchi the rock
 <div align="center">
 <h3 align="center">Connect with me</h3>
 
-[![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://jyyhuang.com)
+[![Website](https://img.shields.io/badge/website-24283b?style=for-the-badge)](https://edtech.neo-fetch.com/)
 [![Linkedin](https://img.shields.io/badge/linkedin-24283b?style=for-the-badge&logo)](https://www.linkedin.com/in/joeyhuang3/)
-[![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/jyyhuang)
-[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeyhuang.dev@gmail.com)
+[![Github](https://img.shields.io/badge/github-24283b?style=for-the-badge&logo=github)](https://github.com/tgsorgill)
+[![Gmail](https://img.shields.io/badge/joeyhuang.dev-24283b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgsorgill@gmail.com)
 </div>
 
 <div align="center">
